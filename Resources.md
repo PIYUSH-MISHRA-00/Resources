@@ -6,6 +6,8 @@
    - [take U forward](https://www.youtube.com/@takeUforward/playlists)
    - [Kunal Kushwaha](https://www.youtube.com/@KunalKushwaha/playlists)
    - [Love Babbar](https://www.youtube.com/@LoveBabbar/playlists)
+   - [sentdex](https://www.youtube.com/@sentdex/playlists)
+   - [deeplizard](https://www.youtube.com/@deeplizard/playlists)
 
 ## Resources
    - [Computer Science Resources](https://github.com/riti2409?tab=repositories)
