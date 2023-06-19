@@ -12,7 +12,7 @@
 ## Resources
    - [Computer Science Resources](https://github.com/riti2409?tab=repositories)
    - [Javascript](https://github.com/Asabeneh/30-Days-Of-JavaScript)
-# Slide Share resources for academics and others by Piyush Mishra
+## Slide Share resources for academics and others by Piyush Mishra
    - [Bioinformatics](https://www.slideshare.net/WindingShelf/bioinformaticspptx-254794296)
    - [Fuzzing Linux Kernel](https://www.slideshare.net/WindingShelf/fuzzing-linux-kernel)
    - [Dynamic Programming](https://www.slideshare.net/WindingShelf/dynamic-program-analysis-for-fun-and-profit)
